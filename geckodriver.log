@@ -1,0 +1,192 @@
+1629880727161	geckodriver	INFO	Listening on 127.0.0.1:65228
+1629880730279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileJllhK3"
+1629880732853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileJllhK3\\search.json.mozlz4", (void 0)))
+1629880737504	Marionette	INFO	Listening on port 65242
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629880737978	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1629880747196	Marionette	INFO	Stopped listening on port 65242
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629880896312	geckodriver	INFO	Listening on 127.0.0.1:65448
+1629880899378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileG9xX4A"
+1629880901161	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileG9xX4A\\search.json.mozlz4", (void 0)))
+1629880904755	Marionette	INFO	Listening on port 65460
+1629880904844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629880925666	Marionette	INFO	Stopped listening on port 65460
+1629881028006	geckodriver	INFO	Listening on 127.0.0.1:63292
+1629881031111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileqLMxyD"
+1629881032563	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileqLMxyD\\search.json.mozlz4", (void 0)))
+1629881035865	Marionette	INFO	Listening on port 63302
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629881036076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629881052408	Marionette	INFO	Stopped listening on port 63302
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629881097132	geckodriver	INFO	Listening on 127.0.0.1:52978
+1629881100184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileeH77hJ"
+1629881186762	geckodriver	INFO	Listening on 127.0.0.1:53094
+1629881189917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileElIERZ"
+1629881191656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileElIERZ\\search.json.mozlz4", (void 0)))
+1629881195049	Marionette	INFO	Listening on port 53104
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629881195358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629881200768	Marionette	INFO	Stopped listening on port 53104
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629881244220	geckodriver	INFO	Listening on 127.0.0.1:53209
+1629881247283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileqBHKLl"
+1629881248759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileqBHKLl\\search.json.mozlz4", (void 0)))
+1629881251954	Marionette	INFO	Listening on port 53220
+1629881252239	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1629881263761	Marionette	INFO	Stopped listening on port 53220
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629881960451	geckodriver	INFO	Listening on 127.0.0.1:51755
+1629881963561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofiledivUWT"
+1629881965007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofiledivUWT\\search.json.mozlz4", (void 0)))
+1629881968933	Marionette	INFO	Listening on port 51767
+1629881969004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&fenlei=256&rsv_pq=a6473be4000197a6&rsv_t=7d44irFa0HAFOB8HB2WF0PmPrxJ%2BLmFI%2B4xVx8zlMZhBbcmcTtT46%2B%2BBErY&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&rsv_btype=i&inputT=184&rsv_sug4=184&rsv_jmp=slow, line 5923: ReferenceError: define is not defined
+JavaScript error: http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&fenlei=256&rsv_pq=a6473be4000197a6&rsv_t=7d44irFa0HAFOB8HB2WF0PmPrxJ%2BLmFI%2B4xVx8zlMZhBbcmcTtT46%2B%2BBErY&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&rsv_btype=i&inputT=184&rsv_sug4=184&rsv_jmp=slow, line 5952: ReferenceError: require is not defined
+JavaScript error: http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&fenlei=256&rsv_pq=a6473be4000197a6&rsv_t=7d44irFa0HAFOB8HB2WF0PmPrxJ%2BLmFI%2B4xVx8zlMZhBbcmcTtT46%2B%2BBErY&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&rsv_btype=i&inputT=184&rsv_sug4=184&rsv_jmp=slow, line 6018: ReferenceError: initPreload is not defined
+JavaScript error: http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&fenlei=256&rsv_pq=a6473be4000197a6&rsv_t=7d44irFa0HAFOB8HB2WF0PmPrxJ%2BLmFI%2B4xVx8zlMZhBbcmcTtT46%2B%2BBErY&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&rsv_btype=i&inputT=184&rsv_sug4=184&rsv_jmp=slow, line 6032: TypeError: bds.amd is undefined
+1629882022717	Marionette	INFO	Stopped listening on port 51767
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629882379215	geckodriver	INFO	Listening on 127.0.0.1:54098
+1629882382314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile9XnrsR"
+1629882383911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile9XnrsR\\search.json.mozlz4", (void 0)))
+1629882387304	Marionette	INFO	Listening on port 55983
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629882387756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629882441370	Marionette	INFO	Stopped listening on port 55983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629883458768	geckodriver	INFO	Listening on 127.0.0.1:58542
+1629883461829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilevsNT2k"
+1629883463319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilevsNT2k\\search.json.mozlz4", (void 0)))
+1629883466862	Marionette	INFO	Listening on port 60946
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629883467368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629884866330	geckodriver	INFO	Listening on 127.0.0.1:62998
+1629884869423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilegbcgJ0"
+1629884871095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilegbcgJ0\\search.json.mozlz4", (void 0)))
+1629884874631	Marionette	INFO	Listening on port 63014
+1629884874905	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1629884915324	Marionette	INFO	Stopped listening on port 63014
+1629885040682	geckodriver	INFO	Listening on 127.0.0.1:62540
+1629885043747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileY60EyS"
+1629885045299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileY60EyS\\search.json.mozlz4", (void 0)))
+1629885048685	Marionette	INFO	Listening on port 61481
+1629885048722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://home.firefoxchina.cn/2019/js/moz-main-min.js?v=20210825173902, line 1: unreachable code after return statement
+JavaScript warning: https://home.firefoxchina.cn/2019/js/moz-main-min.js?v=20210825173902, line 1: unreachable code after return statement
+1629885094379	Marionette	INFO	Stopped listening on port 61481
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629885873777	geckodriver	INFO	Listening on 127.0.0.1:62177
+1629885876909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile2IgcXL"
+1629885878369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile2IgcXL\\search.json.mozlz4", (void 0)))
+1629885881869	Marionette	INFO	Listening on port 51241
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629885882553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629885893359	Marionette	INFO	Stopped listening on port 51241
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629886054720	geckodriver	INFO	Listening on 127.0.0.1:54682
+1629886057792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileWprNI0"
+1629886059255	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileWprNI0\\search.json.mozlz4", (void 0)))
+1629886062980	Marionette	INFO	Listening on port 61971
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629886063263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629886206558	Marionette	INFO	Stopped listening on port 61971629886209272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilePlMXe1"
+1629886210768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilePlMXe1\\search.json.mozlz4", (void 0)))
+1629886214184	Marionette	INFO	Listening on port 54875
+1629886214240	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629886227307	Marionette	INFO	Stopped listening on port 54875
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629886344443	geckodriver	INFO	Listening on 127.0.0.1:49909
+1629886347487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilecVf12Q"
+1629886348940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilecVf12Q\\search.json.mozlz4", (void 0)))
+1629886352256	Marionette	INFO	Listening on port 57563
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629886352435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629886495336	Marionette	INFO	Stopped listening on port 57563
+1629886707161	geckodriver	INFO	Listening on 127.0.0.1:58428
+1629886710247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileVK8BKO"
+1629886711811	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileVK8BKO\\search.json.mozlz4", (void 0)))
+1629886715516	Marionette	INFO	Listening on port 50663
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629886715749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629887222454	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1629888038809	Marionette	INFO	Stopped listening on port 50663
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileCtakAt"
+1629888040208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileCtakAt\\search.json.mozlz4", (void 0)))
+1629888043765	Marionette	INFO	Listening on port 51478
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629888044192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629888081005	Marionette	INFO	Stopped listening on port 51478
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileMS5Os8"
+1629888080973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileMS5Os8\\search.json.mozlz4", (void 0)))
+1629888084318	Marionette	INFO	Listening on port 60594
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629888084702	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gogbuy.com/assets/js/jquery-1.11.2.min.js, line 4: NS_ERROR_NOT_INITIALIZED: 
+1629888362848	Marionette	INFO	Stopped listening on port 60594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
